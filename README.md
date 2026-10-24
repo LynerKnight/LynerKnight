@@ -21,7 +21,7 @@
 
 ### `> whoami`
 
-I'm **Guilherme Lyner**, also known online as **LynerKnight**. I'm studying Software Engineering and enjoy developing projects that connect technology, creativity and worldbuilding.
+I'm Lyner, the developer behind LynerKnight. I'm studying Software Engineering and enjoy developing projects that connect technology, creativity and worldbuilding.
 
 This profile is where I document what I'm learning, share experiments and publish projects as they become ready.
 
