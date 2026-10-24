@@ -16,7 +16,6 @@
 
 </div>
 
-
 ---
 
 ### `> whoami`
@@ -28,6 +27,8 @@ Entre algoritmos, desafios e experimentações, a programação se torna mais do
 É nesse universo de lógica e imaginação que nascem programas, sistemas e projetos autorais, desenvolvidos com dedicação, curiosidade e uma constante vontade de evoluir.
 
 *Enquanto o mundo descansa, novas ideias ganham vida.*
+
+---
 
 ### `> stack`
 
@@ -56,20 +57,19 @@ Tecnologias e ferramentas utilizadas no desenvolvimento dos projetos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="55" height="42" alt="npm" title="npm" />
 </p>
 
+---
+
 ### `> projetos`
 
-Programas e sistemas desenvolvidos por **LynerKnight**, explorando soluções práticas, organização e experiências digitais.
+Programas e sistemas desenvolvidos por **LynerKnight**.
 
-#### Gacha Daily
+> **✦ Gacha Daily**
+>
+> Aplicativo desktop para organizar tarefas, atividades e resets em jogos *gacha*.
+>
+> <sub>Versão funcional · Aguardando publicação</sub>
 
-Um aplicativo desktop desenvolvido para auxiliar na organização e no acompanhamento de atividades em jogos *gacha*.
-
-Permite gerenciar tarefas diárias e semanais, acompanhar resets, visualizar atividades em um calendário e realizar backups dos dados.
-
-**Estado:** Versão funcional — aguardando publicação.
-
-*O repositório e mais informações serão disponibilizados futuramente.*
-
+---
 
 ### `> explorar`
 
