@@ -21,13 +21,15 @@
 
 ### `> whoami`
 
-I'm Lyner, the developer behind LynerKnight. I'm studying Software Engineering and enjoy developing projects that connect technology, creativity and worldbuilding.
+### `> whoami`
 
-This profile is where I document what I'm learning, share experiments and publish projects as they become ready.
+Na tranquilidade da madrugada, sob a luz do monitor e acompanhado por uma xícara de café, ideias começam a ganhar forma através de linhas de código.
 
-- **Based in:** Brazil 🇧🇷
-- **Interested in:** software development, interfaces, interactive systems and game design
-- **Currently focused on:** growing my portfolio and building original projects
+Entre algoritmos, desafios e experimentações, a programação se torna mais do que uma atividade: um espaço de criatividade, concentração e descobertas. Cada problema representa uma oportunidade de aprender, cada solução abre caminho para novas possibilidades.
+
+É nesse universo de lógica e imaginação que nascem programas, sistemas e projetos autorais, desenvolvidos com dedicação, curiosidade e uma constante vontade de evoluir.
+
+*Enquanto o mundo descansa, novas ideias ganham vida.*
 
 ### `> projects --featured`
 
