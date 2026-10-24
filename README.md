@@ -29,6 +29,33 @@ Entre algoritmos, desafios e experimentações, a programação se torna mais do
 
 *Enquanto o mundo descansa, novas ideias ganham vida.*
 
+### `> stack`
+
+Tecnologias e ferramentas utilizadas no desenvolvimento dos projetos.
+
+**Linguagens e interfaces**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3" />
+</p>
+
+**Desenvolvimento desktop**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="42" height="42" alt="Electron" title="Electron" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="55" height="42" alt="npm" title="npm" />
+</p>
+
 ### `> projetos`
 
 Programas e sistemas desenvolvidos por **LynerKnight**, explorando soluções práticas, organização e experiências digitais.
