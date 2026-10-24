@@ -70,19 +70,13 @@ Permite gerenciar tarefas diárias e semanais, acompanhar resets, visualizar ati
 
 *O repositório e mais informações serão disponibilizados futuramente.*
 
-### `> currently_building`
 
-- Organizing and documenting my code on GitHub.
-- Improving the structure and presentation of my projects.
-- Exploring new ways to bring interactive ideas to life.
+### `> explorar`
 
-### `> connect`
-
-**GitHub:** [@LynerKnight](https://github.com/LynerKnight)  
-**Repositories:** [Explore my work](https://github.com/LynerKnight?tab=repositories)
+📂 [Explorar repositórios](https://github.com/LynerKnight?tab=repositories)
 
 ---
 
 <div align="center">
-  <sub><code>"Every project begins as an idea. The rest is creation."</code></sub>
+  <sub><code>Entre a lógica e a imaginação, ideias ganham forma.</code></sub>
 </div>
