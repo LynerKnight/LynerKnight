@@ -21,8 +21,6 @@
 
 ### `> whoami`
 
-### `> whoami`
-
 Na tranquilidade da madrugada, sob a luz do monitor e acompanhado por uma xícara de café, ideias começam a ganhar forma através de linhas de código.
 
 Entre algoritmos, desafios e experimentações, a programação se torna mais do que uma atividade: um espaço de criatividade, concentração e descobertas. Cada problema representa uma oportunidade de aprender, cada solução abre caminho para novas possibilidades.
