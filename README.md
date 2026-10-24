@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./lynerknight-emblema.png" alt="Emblema LynerKnight" width="110" />
+<img src="./Mimikyu.png" alt="Emblema LynerKnight" width="110" />
 
 # LYNERKNIGHT
 
