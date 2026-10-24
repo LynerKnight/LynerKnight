@@ -31,15 +31,13 @@ Entre algoritmos, desafios e experimentações, a programação se torna mais do
 
 ### `> projetos`
 
-Programas e sistemas desenvolvidos sob a identidade **LynerKnight**, explorando soluções práticas, organização e experiências digitais.
+Programas e sistemas desenvolvidos por **LynerKnight**, explorando soluções práticas, organização e experiências digitais.
 
 #### Gacha Daily
 
 Um aplicativo desktop desenvolvido para auxiliar na organização e no acompanhamento de atividades em jogos *gacha*.
 
 Permite gerenciar tarefas diárias e semanais, acompanhar resets, visualizar atividades em um calendário e realizar backups dos dados.
-
-**Tecnologias:** Electron · JavaScript · HTML · CSS
 
 **Estado:** Versão funcional — aguardando publicação.
 
