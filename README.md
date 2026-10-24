@@ -29,16 +29,6 @@ Entre algoritmos, desafios e experimentações, a programação se torna mais do
 
 *Enquanto o mundo descansa, novas ideias ganham vida.*
 
-### `> projects --featured`
-
-| Project | What it is | Stage |
-| :--- | :--- | :--- |
-| **Mundo do Louco** | An original project being prepared for its first version. | In development |
-| **Constellation O.S.** | An experimental, fictional operating-system interface designed around original interactive experiences. | Design & prototyping |
-| **Xadrez de Guerra** | A tactical 16×16 board game designed as part of Constellation O.S. | Game design & prototyping |
-
-> Repositories, screenshots and demos will be linked here as public versions become available.
-
 ### `> currently_building`
 
 - Organizing and documenting my code on GitHub.
