@@ -1,20 +1,21 @@
 <div align="center">
 
-# Guilherme Lyner
+# LYNERKNIGHT
 
-**`LynerKnight`** · Software Engineering · Creative Development
+**Software · Systems · Creation**
 
-<sub><code>user@nightdev:~$ turning ideas into interactive experiences_</code></sub>
+<sub><code>user@lynerknight:~$ ./create --systems --worlds</code></sub>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/LynerKnight/LynerKnight/main/Clouds.gif" alt="Moonlit clouds — LynerKnight profile banner" width="100%" />
+<img src="./Clouds.gif" alt="LynerKnight Banner" width="100%" />
 
 <br>
 
-*Software, experimental interfaces, interactive systems and original worlds.*
+*Independent development of software, interactive systems and original projects.*
 
 </div>
+
 
 ---
 
